@@ -6,9 +6,9 @@ Markdown, metin tabanlı belgeleri biçimlendirmek ve düzenlemek için kullanı
 ### 1.Başlıklar:
 Başlık oluşturmak için başlık metni yanına # işareti koyarak başlatabilirsiniz. Örnek:
 
-# Başlık 1
-## Başlık 2
-### Başlık 3
+# Başlık 1      (#)
+## Başlık 2       (##)
+### Başlık 3        (###)
 
 
 ### 2. Paragraflar:
